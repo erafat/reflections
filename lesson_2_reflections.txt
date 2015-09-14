@@ -2,3 +2,6 @@
 
 I changed my directory into a Git repository where I can submit my unversioned projects. Because by initializing a repository, will i be able to create a palace where I could upload my works.
 
+/////How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is where my work is temprorally stored before I commit them to the repository. It offers a flexibility, where I can make changes before I finally commit that.
