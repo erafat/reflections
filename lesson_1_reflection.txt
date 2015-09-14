@@ -7,3 +7,10 @@ By viewing the code changes, I'll be able to find out which commit introduced th
 efficient programmer in the long term?
 
 I'll be able to see all the changes that have been made, which in the future will help me to easily remember what I've done in the long run.
+
+******What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pros of manually commit is I can commit every logical changes, rather than certain lines or during a certain time frame, which will not always be logical.
+Cons, sometimes one may forget to commit, or if sudden event happens like out of electricity or hurrying to get a bus/train, in this circumstances, works not been committed might be lost.
