@@ -13,3 +13,7 @@ Use git diff to check if the changes been made is one logical change before comm
 /////What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 There are several common situation that branches would be helpful, for one is when trying out new features but yet ready to add it to the project. For another, is when a team works on a same project, members could use branch to make copy of the original project and make changes to it without changing the "master" branch.
+
+/////How do the diagrams help you visualize the branch structure?
+
+It helps me better understand which branch i'm in and the history of the branch changing.
