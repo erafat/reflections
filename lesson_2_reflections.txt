@@ -5,3 +5,7 @@ I changed my directory into a Git repository where I can submit my unversioned p
 /////How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is where my work is temprorally stored before I commit them to the repository. It offers a flexibility, where I can make changes before I finally commit that.
+
+//////How can you use the staging area to make sure you have one commit per logical change?
+
+Use git diff to check if the changes been made is one logical change before commit it.
