@@ -1,0 +1,4 @@
+*****How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+By viewing the code changes, I'll be able to find out which commit introduced that bug and be able to fix it.
