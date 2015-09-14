@@ -23,3 +23,8 @@ multile file commit will benefit big projects when need multiple members/teams w
 ******How can you use the commands git log and git diff to view the history of files?
 
 I can use git log to see the commit that's been made, using git diff w/ different id I will be able to check the specific changes in every commits
+
+******How might using version control make you more confident to make changes that
+could break something?
+
+I can always try the new ideas and go back to the previous commit.
