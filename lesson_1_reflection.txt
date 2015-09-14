@@ -2,3 +2,8 @@
 was introduced?
 
 By viewing the code changes, I'll be able to find out which commit introduced that bug and be able to fix it.
+
+*****How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+I'll be able to see all the changes that have been made, which in the future will help me to easily remember what I've done in the long run.
