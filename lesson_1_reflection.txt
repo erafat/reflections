@@ -19,3 +19,7 @@ Cons, sometimes one may forget to commit, or if sudden event happens like out of
 files in one commit, while others, like Google Docs, treat each file separately?
 
 multile file commit will benefit big projects when need multiple members/teams working on different aspect of that project, rather than do it seperately, members will be able to cooperate.
+
+******How can you use the commands git log and git diff to view the history of files?
+
+I can use git log to see the commit that's been made, using git diff w/ different id I will be able to check the specific changes in every commits
