@@ -28,3 +28,7 @@ I can use git log to see the commit that's been made, using git diff w/ differen
 could break something?
 
 I can always try the new ideas and go back to the previous commit.
+
+******Now that you have your workspace set up, what do you want to try using Git for?
+
+use git for my website and apps.
