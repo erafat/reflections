@@ -21,3 +21,8 @@ It helps me better understand which branch i'm in and the history of the branch 
 /////What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is the other branches will merged into the one that's checkedout. To better visualize the relation between the one that is merging and the one that is been merged into.
+
+/////What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging Pros: if the automatic merging merges after every changes, it saves time, and make programmer do less job with merging itself. Cons: it might not merge as needed.
+Manual Merging Pros: Always merge after logical changes, as needed rather than automadic merge random changes to the projects. Cons: as a human, some time one may forget to merge after certain changes, thus, making the work less effecient.
