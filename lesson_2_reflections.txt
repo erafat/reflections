@@ -17,3 +17,7 @@ There are several common situation that branches would be helpful, for one is wh
 /////How do the diagrams help you visualize the branch structure?
 
 It helps me better understand which branch i'm in and the history of the branch changing.
+
+/////What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is the other branches will merged into the one that's checkedout. To better visualize the relation between the one that is merging and the one that is been merged into.
