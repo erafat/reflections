@@ -6,3 +6,10 @@ Use a remote repository makes my local "clean", besides, remote repository works
 
 Because for the most of the times, local repositories are ahead of the remote repository, for it's always under changing rather than the remote repository is the one that's been commited.
 
+/////Describe the differences between forks, clones, pull, and branches. When would you use one instead of another?
+
+Fork: Make a copy from other's Github repository to one's own Github repository.
+Branch: It represents an independent line of development, serce as an abstraction for the edit/stage/commit process.
+Clone: Make a working copy of existing remote repository, usually used only once.  
+Pull: Update the local repository with new commit from remote respository.
+
