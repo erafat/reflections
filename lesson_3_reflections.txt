@@ -13,3 +13,6 @@ Branch: It represents an independent line of development, serce as an abstractio
 Clone: Make a working copy of existing remote repository, usually used only once.  
 Pull: Update the local repository with new commit from remote respository.
 
+//////What is the benefit of having a copy of the last known state of the remote stored locally?
+
+By having a copy locally, I will be able to easily access to the latest develop stage of the certain project even if I am offline.
