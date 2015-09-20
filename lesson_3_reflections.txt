@@ -21,3 +21,8 @@ By having a copy locally, I will be able to easily access to the latest develop 
 //////How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 If I didn't learn Git/Github, I will probably setup an Dropbox/Google Drive account, upload my project to the cloud, then share the url with my partners. It will be eaiser at first because I don't need to learn the Git, and I'm sure in the beginning the project is small enough to be upload to the cloud within seconds/minutes. But when it becomes more serious, more complex, and need more collaboration, problems occur. I would harly imagine working by simply sharing the projects url and let others 'mail' me the changes they've made, and adding into the 'master' without pre-review. It will be a mess, that is no doubt.
+
+
+//////When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+My answer will be "Always, always make changes in a seperate branch". It is more effecient when collaborating with others in a same project, other will always get the idea of the changes simply by checking the branch and modifie if needed without messing up the master branch. 
