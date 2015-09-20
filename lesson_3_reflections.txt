@@ -16,3 +16,8 @@ Pull: Update the local repository with new commit from remote respository.
 //////What is the benefit of having a copy of the last known state of the remote stored locally?
 
 By having a copy locally, I will be able to easily access to the latest develop stage of the certain project even if I am offline.
+
+
+//////How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If I didn't learn Git/Github, I will probably setup an Dropbox/Google Drive account, upload my project to the cloud, then share the url with my partners. It will be eaiser at first because I don't need to learn the Git, and I'm sure in the beginning the project is small enough to be upload to the cloud within seconds/minutes. But when it becomes more serious, more complex, and need more collaboration, problems occur. I would harly imagine working by simply sharing the projects url and let others 'mail' me the changes they've made, and adding into the 'master' without pre-review. It will be a mess, that is no doubt.
